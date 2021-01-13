@@ -7,4 +7,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ## GITHUB
-Cambios realizados en Github.com
+Cambios realizados en Github.com--puelles
